@@ -5,12 +5,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ServiceLayer.Service.Contract
+namespace ServiceLayer.Service.Contract 
 {
     public interface IUser
     {
         List<User> GetAllUsers();
-        User GetUserById(int userId);
+        User GetUserById(int userId);  
 
         void AddUser(User model);
 
