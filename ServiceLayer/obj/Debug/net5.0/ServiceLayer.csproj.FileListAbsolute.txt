@@ -1,0 +1,17 @@
+C:\Projects\DMS_EF\DMS_Onion\ServiceLayer\bin\Debug\net5.0\ServiceLayer.deps.json
+C:\Projects\DMS_EF\DMS_Onion\ServiceLayer\bin\Debug\net5.0\ServiceLayer.dll
+C:\Projects\DMS_EF\DMS_Onion\ServiceLayer\bin\Debug\net5.0\ref\ServiceLayer.dll
+C:\Projects\DMS_EF\DMS_Onion\ServiceLayer\bin\Debug\net5.0\ServiceLayer.pdb
+C:\Projects\DMS_EF\DMS_Onion\ServiceLayer\bin\Debug\net5.0\DomainLayer.dll
+C:\Projects\DMS_EF\DMS_Onion\ServiceLayer\bin\Debug\net5.0\RepositoryLayer.dll
+C:\Projects\DMS_EF\DMS_Onion\ServiceLayer\bin\Debug\net5.0\RepositoryLayer.pdb
+C:\Projects\DMS_EF\DMS_Onion\ServiceLayer\bin\Debug\net5.0\DomainLayer.pdb
+C:\Projects\DMS_EF\DMS_Onion\ServiceLayer\obj\Debug\net5.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\Projects\DMS_EF\DMS_Onion\ServiceLayer\obj\Debug\net5.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DMS_EF\DMS_Onion\ServiceLayer\obj\Debug\net5.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\Projects\DMS_EF\DMS_Onion\ServiceLayer\obj\Debug\net5.0\ServiceLayer.AssemblyInfo.cs
+C:\Projects\DMS_EF\DMS_Onion\ServiceLayer\obj\Debug\net5.0\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Projects\DMS_EF\DMS_Onion\ServiceLayer\obj\Debug\net5.0\ServiceLayer.csproj.CopyComplete
+C:\Projects\DMS_EF\DMS_Onion\ServiceLayer\obj\Debug\net5.0\ServiceLayer.dll
+C:\Projects\DMS_EF\DMS_Onion\ServiceLayer\obj\Debug\net5.0\ref\ServiceLayer.dll
+C:\Projects\DMS_EF\DMS_Onion\ServiceLayer\obj\Debug\net5.0\ServiceLayer.pdb

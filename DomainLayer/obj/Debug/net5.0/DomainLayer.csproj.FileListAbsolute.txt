@@ -1,0 +1,11 @@
+C:\Projects\DMS_EF\DMS_Onion\DomainLayer\bin\Debug\net5.0\DomainLayer.deps.json
+C:\Projects\DMS_EF\DMS_Onion\DomainLayer\bin\Debug\net5.0\DomainLayer.dll
+C:\Projects\DMS_EF\DMS_Onion\DomainLayer\bin\Debug\net5.0\ref\DomainLayer.dll
+C:\Projects\DMS_EF\DMS_Onion\DomainLayer\bin\Debug\net5.0\DomainLayer.pdb
+C:\Projects\DMS_EF\DMS_Onion\DomainLayer\obj\Debug\net5.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DMS_EF\DMS_Onion\DomainLayer\obj\Debug\net5.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Projects\DMS_EF\DMS_Onion\DomainLayer\obj\Debug\net5.0\DomainLayer.AssemblyInfo.cs
+C:\Projects\DMS_EF\DMS_Onion\DomainLayer\obj\Debug\net5.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Projects\DMS_EF\DMS_Onion\DomainLayer\obj\Debug\net5.0\DomainLayer.dll
+C:\Projects\DMS_EF\DMS_Onion\DomainLayer\obj\Debug\net5.0\ref\DomainLayer.dll
+C:\Projects\DMS_EF\DMS_Onion\DomainLayer\obj\Debug\net5.0\DomainLayer.pdb
